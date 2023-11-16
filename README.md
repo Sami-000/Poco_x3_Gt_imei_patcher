@@ -3,7 +3,8 @@
 
 # Usage
 1. install `imei_patcher.zip` module in magisk.
-3. unzip `nvdata.zip`  flash `nvdata.img` `nvram.bin` with mtkclient or sp flash tool.
+3. unzip `nvdata.zip`
+and flash `nvdata.img` `nvram.bin` with mtkclient or sp flash tool.
 
 done...
 
