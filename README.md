@@ -9,4 +9,4 @@ imei1: `355101000436797`\
 imei2: `355101000436821`
 
 # Testing 
-Tested on miui 13.0.2 tr & 14.0.6 cn
+Tested on miui 13.0.2 tr & 14.0.7 cn
